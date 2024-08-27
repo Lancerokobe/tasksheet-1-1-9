@@ -31,9 +31,9 @@ public class Tasksheet119 {
 
         System.out.println();
         System.out.println("The sum is: "+ addsum);
-        System.out.printf("The product is: %.2f%n"+ mulsum);
-        System.out.printf("The quotient is: %.2f%n"+ divsum);
-        System.out.printf("The difference is: %.2f%n"+ subsum);
+        System.out.printf("The product is: "+ mulsum);
+        System.out.printf("The quotient is: "+ divsum);
+        System.out.printf("The difference is: "+ subsum);
         scan.close();
     }
 }
